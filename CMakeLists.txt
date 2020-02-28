@@ -3,4 +3,4 @@ project(Cpp)
 
 set(CMAKE_CXX_FLAGS "-fexec-charset=CP949")
 
-add_executable(Cpp main.cpp)
+add_executable(Cpp main.cpp friend.cpp)
